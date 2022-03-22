@@ -3,7 +3,7 @@ title: Git
 date: 2022-03-22 14:42:21
 tags:
 ---
-
+# Possible Problems
 ### Problem:
 ```bash
  ! [rejected]        master -> master (fetch first)
@@ -16,3 +16,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 [Solution Ref](https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote)
 
+
+# Git Commands
+[git stash](https://www.cnblogs.com/zndxall/archive/2018/09/04/9586088.html)
